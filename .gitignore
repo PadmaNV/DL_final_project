@@ -50,6 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+deep-learning-for-computer-vision-and-nlp-2024-10/
 
 # Translations
 *.mo
